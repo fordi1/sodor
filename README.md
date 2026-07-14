@@ -1,3 +1,4 @@
+![Uploading Screenshot_20260614_163921.jpg…]()
 # Sodor
 
 Sodor is a native Persian invoice and proforma invoice application for Android. It is designed for small businesses that need a fast, RTL-first workflow for managing customers, products, payments, and printable documents.
