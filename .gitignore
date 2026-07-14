@@ -1,0 +1,57 @@
+# Gradle and Kotlin
+.gradle/
+.kotlin/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio and IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+local.properties
+
+# Android build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing files and credentials
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+.env
+.env.*
+secrets.properties
+
+# Test, coverage, and generated reports
+.roborazzi/
+test-results/
+reports/
+coverage/
+*.ec
+*.exec
+
+# Local tooling output
+extracted_classes/
+node_modules/
+*.log
+hs_err_pid*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local editor settings
+.vscode/
+*.swp
+*.swo
+*~
